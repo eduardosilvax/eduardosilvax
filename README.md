@@ -35,7 +35,7 @@ Atuo na construção de **pipelines de dados escaláveis, arquiteturas em cloud 
 
 ## 💼 Destaques da Carreira
 
-- 🏛️ **Head de TI – Prefeitura de Aracaju (2025 – atual):** Gestão de contratos de TI multimilionários, liderança de 28 pessoas, implantação de soluções em cloud e projetos de IA aplicada para serviços públicos.  
+- 🏛️ **Head de Inovação e Projetos – Prefeitura de Aracaju (2025 – atual):** Gestão de contratos de TI multimilionários, liderança de 28 pessoas, implantação de soluções em cloud e projetos de IA aplicada para serviços públicos.  
 - 🌍 **Arquiteto de Dados – Mondelez International (2023 – 2024):** Dashboards executivos de alta escala, análises preditivas e integração de dados com Neogrid.  
 - 🎓 **Analista de Dados – FANESE (2022 – 2023):** Estruturação de área de BI, automação com Python, +R$1M/ano em receita adicional.  
 - 📈 **Analista de Negócios – Prepara Cursos (2021 – 2022):** Inteligência comercial, KPIs e automação de relatórios.  
