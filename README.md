@@ -1,45 +1,45 @@
 # 👋 Eduardo Silva
 
-Olá! Eu sou o **Eduardo Silva** — profissional de **Business Intelligence, Engenharia de Dados e Inteligência Artificial Aplicada**, atualmente atuando como **Head de Inovação e Projetos na Prefeitura de Aracaju**.  
-Minha missão é liderar projetos de **transformação digital, modernização de infraestrutura e inovação em dados e IA** que geram impacto real na gestão pública e no setor privado.
+Olá! Eu sou o **Eduardo Silva** — profissional especializado em **Engenharia de Dados, Business Intelligence e Inteligência Artificial Aplicada**, atualmente atuando como **Head de Inovação e Projetos na Prefeitura de Aracaju**.  
+Minha missão é transformar dados em valor estratégico, liderando projetos de **Data & AI** que impulsionam decisões inteligentes, inovação e eficiência operacional.
 
-Atuo na interseção entre **engenharia de dados, cloud computing e inteligência artificial**, construindo pipelines escaláveis, automações com APIs e soluções analíticas avançadas que conectam tecnologia e estratégia.
+Atuo na construção de **pipelines de dados escaláveis, arquiteturas em cloud e soluções baseadas em IA**, sempre conectando tecnologia de ponta com impacto real em negócios e serviços públicos.
 
 ---
 
 ## 🚀 Projetos em andamento
 
-- 📊 **Data Analytics & BI**: Dashboards executivos e KPIs com Power BI, SQL e BigQuery.  
-- 🧠 **IA Aplicada**: Implementação de LLMs, RAG e LangGraph em sistemas corporativos e governamentais.  
-- ☁️ **Cloud & DevOps**: Arquitetura em AWS, GCP, Azure e CloudAju, com automação e governança de TI.  
-- 🖥️ **Sistemas Web & Mobile**: Liderança de soluções em tempo real para operações empresariais e públicas.  
-- 🔍 **Transformação Digital**: Expansão da rede de fibra óptica (RIMA), automação de processos e digitalização de serviços.  
+- 📊 **Data Analytics & BI**: Dashboards executivos, indicadores estratégicos e análises preditivas com Power BI, SQL e BigQuery.  
+- 🧠 **Applied AI**: Implementação de LLMs, RAG, LangGraph e IA Generativa em soluções corporativas e governamentais.  
+- ☁️ **Data & Cloud Engineering**: Arquiteturas em AWS, GCP, Azure e CloudAju, com governança de dados, pipelines ELT/ETL e automação.  
+- 🖥️ **Sistemas Inteligentes**: Integração de dados em tempo real em sistemas web e mobile.  
+- 🔍 **Transformação Digital**: Projetos de automação, inventário tecnológico e redes inteligentes (RIMA).  
 
 ---
 
 ## 🛠️ Skills & Ferramentas
 
-- **Dados & IA:**  
-  Power BI · Python · SQL (MySQL, Oracle) · BigQuery · dbt (conceitos) · ETL/ELT · Data Warehouse · Data Lake · LangGraph · RAG · LLMs  
+- **Data & AI:**  
+  Python · Power BI · SQL (MySQL, Oracle, BigQuery) · dbt (conceitos) · Data Warehouse · Data Lake · ETL/ELT · LLMs · RAG · LangGraph · IA Generativa  
 
 - **Cloud & DevOps:**  
   AWS · Azure · GCP · CloudAju · Docker · GitHub Actions  
 
-- **Programação & Desenvolvimento:**  
+- **Programação & Dev:**  
   Python · Flutter · JavaScript · APIs · PowerApps · Figma  
 
-- **Metodologias & Gestão:**  
-  Scrum · Gestão de Projetos · Governança de TI · Liderança Técnica  
+- **Gestão & Metodologias:**  
+  Scrum · Gestão de Projetos · IT Governance · Liderança Técnica  
 
 ---
 
 ## 💼 Destaques da Carreira
 
-- 🏛️ **Head de TI – Prefeitura de Aracaju (2025 – atual):** Gestão de 16+ contratos de TI (>R$1M/ano), liderança de 28 pessoas, implantação de cloud, IA e automação de processos.  
-- 🌍 **Arquiteto de Dados – Mondelez International (2023 – 2024):** Dashboards executivos, análises preditivas e integração de múltiplas fontes de dados (Neogrid).  
-- 🎓 **Analista de Dados – FANESE (2022 – 2023):** Estruturação da área de BI com Python & Power BI, receita adicional de +R$1M/ano.  
-- 📈 **Analista de Negócios – Prepara Cursos (2021 – 2022):** Desenvolvimento de dashboards de performance comercial e automação de relatórios.  
-- ⚡ **Energisa (2019 – 2020):** Primeiras experiências com dados, indicadores operacionais e dashboards.  
+- 🏛️ **Head de TI – Prefeitura de Aracaju (2025 – atual):** Gestão de contratos de TI multimilionários, liderança de 28 pessoas, implantação de soluções em cloud e projetos de IA aplicada para serviços públicos.  
+- 🌍 **Arquiteto de Dados – Mondelez International (2023 – 2024):** Dashboards executivos de alta escala, análises preditivas e integração de dados com Neogrid.  
+- 🎓 **Analista de Dados – FANESE (2022 – 2023):** Estruturação de área de BI, automação com Python, +R$1M/ano em receita adicional.  
+- 📈 **Analista de Negócios – Prepara Cursos (2021 – 2022):** Inteligência comercial, KPIs e automação de relatórios.  
+- ⚡ **Energisa (2019 – 2020):** Primeiras experiências em dados, relatórios técnicos e indicadores operacionais.  
 
 ---
 
@@ -59,4 +59,4 @@ Atuo na interseção entre **engenharia de dados, cloud computing e inteligênci
 
 ---
 
-_⚡ Curiosidade pessoal: Apaixonado por música clássica e violão erudito, acredito que a disciplina e a sensibilidade da música se conectam diretamente com a forma como enxergo tecnologia e inovação._  
+_⚡ Além da tecnologia, sou apaixonado por **música clássica e violão erudito**, que me inspiram disciplina, sensibilidade e precisão — valores que também aplico em dados e inovação._  
