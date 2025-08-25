@@ -1,6 +1,6 @@
-# 👋 José Eduardo da Silva
+# 👋 Eduardo Silva
 
-Olá! Eu sou o **José Eduardo da Silva** — profissional de **Business Intelligence, Engenharia de Dados e Inteligência Artificial Aplicada**, atualmente atuando como **Head de TI na Prefeitura de Aracaju**.  
+Olá! Eu sou o **Eduardo Silva** — profissional de **Business Intelligence, Engenharia de Dados e Inteligência Artificial Aplicada**, atualmente atuando como **Head de Inovação e Projetos na Prefeitura de Aracaju**.  
 Minha missão é liderar projetos de **transformação digital, modernização de infraestrutura e inovação em dados e IA** que geram impacto real na gestão pública e no setor privado.
 
 Atuo na interseção entre **engenharia de dados, cloud computing e inteligência artificial**, construindo pipelines escaláveis, automações com APIs e soluções analíticas avançadas que conectam tecnologia e estratégia.
