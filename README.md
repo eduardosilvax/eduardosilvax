@@ -1,62 +1,121 @@
 # 👋 Eduardo Silva
 
-Olá! Eu sou o **Eduardo Silva** — profissional especializado em **Engenharia de Dados, Business Intelligence e Inteligência Artificial Aplicada**, atualmente atuando como **Head de Inovação e Projetos na Prefeitura de Aracaju**.  
-Minha missão é transformar dados em valor estratégico, liderando projetos de **Data & AI** que impulsionam decisões inteligentes, inovação e eficiência operacional.
+**Senior Analytics Engineer** especializado em **Data Engineering, BI e Applied AI** — atualmente **Head de Dados & Tecnologia na Prefeitura de Aracaju**.
 
-Atuo na construção de **pipelines de dados escaláveis, arquiteturas em cloud e soluções baseadas em IA**, sempre conectando tecnologia de ponta com impacto real em negócios e serviços públicos.
-
----
-
-## 🚀 Projetos em andamento
-
-- 📊 **Data Analytics & BI**: Dashboards executivos, indicadores estratégicos e análises preditivas com Power BI, SQL e BigQuery.  
-- 🧠 **Applied AI**: Implementação de LLMs, RAG, LangGraph e IA Generativa em soluções corporativas e governamentais.  
-- ☁️ **Data & Cloud Engineering**: Arquiteturas em AWS, GCP, Azure e CloudAju, com governança de dados, pipelines ELT/ETL e automação.  
-- 🖥️ **Sistemas Inteligentes**: Integração de dados em tempo real em sistemas web e mobile.  
-- 🔍 **Transformação Digital**: Projetos de automação, inventário tecnológico e redes inteligentes (RIMA).  
+Transformo dados em valor estratégico, construindo **pipelines de dados escaláveis**, **arquiteturas cloud-native** e **soluções de IA em produção** que impulsionam decisões, inovação e eficiência operacional.
 
 ---
 
-## 🛠️ Skills & Ferramentas
+## 🚀 O que estou construindo
 
-- **Data & AI:**  
-  Python · Power BI · SQL (MySQL, Oracle, BigQuery) · dbt (conceitos) · Data Warehouse · Data Lake · ETL/ELT · LLMs · RAG · LangGraph · IA Generativa  
-
-- **Cloud & DevOps:**  
-  AWS · Azure · GCP · CloudAju · Docker · GitHub Actions  
-
-- **Programação & Dev:**  
-  Python · Flutter · JavaScript · APIs · PowerApps · Figma  
-
-- **Gestão & Metodologias:**  
-  Scrum · Gestão de Projetos · IT Governance · Liderança Técnica  
+| Área                        | Descrição                                                                          |
+| --------------------------- | ---------------------------------------------------------------------------------- |
+| 🏛️ **IntegrAju**            | Primeiro app governamental de Aracaju, conectando cidadãos aos serviços municipais |
+| 🤖 **AI Agents**            | Sistemas RAG e AI Agents em produção com GPT-5.1, LangGraph e PydanticAI           |
+| 📊 **Analytics Platforms**  | Dashboards executivos e camadas semânticas com dbt + Snowflake + Airflow           |
+| ☁️ **Cloud Infrastructure** | Arquiteturas AWS e GCP com pipelines processando TB-scale datasets                 |
 
 ---
 
-## 💼 Destaques da Carreira
+## 📈 Impacto Mensurável
 
-- 🏛️ **Head de Inovação e Projetos – Prefeitura de Aracaju (2025 – atual):** Gestão de contratos de TI multimilionários, liderança de 28 pessoas, implantação de soluções em cloud e projetos de IA aplicada para serviços públicos.  
-- 🌍 **Arquiteto de Dados – Mondelez International (2023 – 2024):** Dashboards executivos de alta escala, análises preditivas e integração de dados com Neogrid.  
-- 🎓 **Analista de Dados – FANESE (2022 – 2023):** Estruturação de área de BI, automação com Python, +R$1M/ano em receita adicional.  
-- 📈 **Analista de Negócios – Prepara Cursos (2021 – 2022):** Inteligência comercial, KPIs e automação de relatórios.  
-- ⚡ **Energisa (2019 – 2020):** Primeiras experiências em dados, relatórios técnicos e indicadores operacionais.  
-
----
-
-## 🎓 Formação Acadêmica
-
-- **AI Engineering – Scoras Academy** *(início: ago/2025, conclusão prevista: dez/2025)*  
-- **CST em Ciência de Dados – Descomplica Faculdade Digital** *(conclusão: dez/2024)*  
-- **CST em Ciência de Dados – Cruzeiro do Sul Virtual** *(previsão: jun/2027)*  
-- **Engenharia de Software (Bacharelado) – Cruzeiro do Sul Virtual** *(previsão: jun/2029)*  
+```
+💰 +R$1M/ano      → Receita gerada via dashboards de cobrança (FANESE)
+⚡ 3 meses → 3 dias → Automação de 7.000 NFs com Python + Selenium
+📊 TB-scale       → Processamento de milhões de linhas com Pandas/Polars (Mondelez)
+🛣️ -2h/percurso   → Sistema de rotas otimizadas com VBA (Energisa)
+🎯 85% accuracy   → Melhoria em sistemas RAG para recuperação de documentos
+👥 12+ engineers  → Liderança de times multifuncionais de dados
+```
 
 ---
 
-## 📫 Conecte-se comigo
+## 🛠️ Tech Stack
 
-- ✉️ Email: [joseeduardo20187@gmail.com](mailto:joseeduardo20187@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/joseeduardodasilva](https://www.linkedin.com/in/joseeduardodasilva/)  
+<details>
+<summary><strong>AI & Data</strong></summary>
+
+`RAG` `AI Agents` `LangGraph` `LangFlow` `PydanticAI` `GPT-5.1 API` `Vector Databases` `Embeddings` `Semantic Search` `Prompt Engineering`
+
+</details>
+
+<details>
+<summary><strong>Analytics Engineering</strong></summary>
+
+`dbt` `SQL` `PostgreSQL` `BigQuery` `Snowflake` `Data Modeling (Kimball)` `Semantic Layer` `Data Quality Testing` `Data Contracts`
+
+</details>
+
+<details>
+<summary><strong>Data Infrastructure</strong></summary>
+
+`Apache Airflow` `ETL/ELT Pipelines` `Data Warehouse` `Data Lake` `Kafka` `Redis` `CDC` `Web Scraping (BeautifulSoup, Selenium)`
+
+</details>
+
+<details>
+<summary><strong>Languages & Libraries</strong></summary>
+
+`Python` `Pandas` `Polars` `PySpark` `SQL` `JavaScript/TypeScript` `Node.js` `FastAPI` `VBA`
+
+</details>
+
+<details>
+<summary><strong>Cloud & DevOps</strong></summary>
+
+`AWS (Lambda, S3, EC2, RDS, Glue)` `GCP (BigQuery, Cloud Functions)` `Docker` `Kubernetes` `Terraform` `CI/CD (GitHub Actions)` `Git`
+
+</details>
+
+<details>
+<summary><strong>AI Development Tools</strong></summary>
+
+`Claude` `Cursor` `Antigravity` `Copilot` `MCP (Model Context Protocol)`
+
+</details>
+
+<details>
+<summary><strong>Visualization & BI</strong></summary>
+
+`Power BI` `Looker` `Metabase` `Tableau` `Streamlit`
+
+</details>
 
 ---
 
-_⚡ Além da tecnologia, sou apaixonado por **música clássica e violão erudito**, que me inspiram disciplina, sensibilidade e precisão — valores que também aplico em dados e inovação._  
+## 💼 Trajetória
+
+| Período | Cargo                          | Empresa                | Destaque                                 |
+| ------- | ------------------------------ | ---------------------- | ---------------------------------------- |
+| 2025+   | **Head de Dados & Tecnologia** | Prefeitura de Aracaju  | IntegrAju app, RAG systems, AI chatbots  |
+| 2023-24 | **Senior Analytics Engineer**  | Mondelez International | TB-scale data, dbt + Snowflake + Airflow |
+| 2022-23 | **Analytics Engineer**         | FANESE                 | R$1M+ receita, 7000 NFs automatizadas    |
+| 2021-22 | **Data Analyst**               | Prepara Cursos         | KPIs, automação de relatórios            |
+| 2019-20 | **Junior Data Analyst**        | Energisa               | Sistema de rotas VBA                     |
+
+---
+
+## 🎓 Formação
+
+- 🎯 **AI Engineering** — Scoras Academy _(2025)_
+- 📊 **CST em Ciência de Dados** — Descomplica _(2024)_
+- 📊 **CST em Ciência de Dados** — Cruzeiro do Sul _(2027)_
+- 💻 **Engenharia de Software** — Cruzeiro do Sul _(2029)_
+
+---
+
+## 📫 Vamos conversar?
+
+[![Email](https://img.shields.io/badge/Email-joseeduardo20187%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joseeduardo20187@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseeduardodasilva-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseeduardodasilva)
+[![GitHub](https://img.shields.io/badge/GitHub-eduardosilva.x-181717?style=flat&logo=github&logoColor=white)](https://github.com/eduardosilva.x)
+
+---
+
+<div align="center">
+
+_"Dados sem ação são apenas números. Dados com propósito são transformação."_
+
+⚡ **Além de dados, sou apaixonado por música clássica e violão erudito** — disciplina, sensibilidade e precisão que aplico em tudo que construo.
+
+</div>
