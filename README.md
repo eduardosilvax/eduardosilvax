@@ -49,7 +49,7 @@ Currently leading the development of **IntegrAju** — a government super app wi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosilva-x&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardosilvax&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
 
 </div>
 
